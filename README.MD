@@ -1,4 +1,4 @@
-# Code Raccoon
+# nodejs-expressjs-crude-api
 
 nodejs-expressjs-crude-api is a simple Node.js application that demonstrates basic CRUD operations using Express.js. This project showcases building RESTful APIs with Node.js and Express.
 
