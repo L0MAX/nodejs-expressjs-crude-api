@@ -1,0 +1,54 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "email": "john@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "email": "jane@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "Alice Johnson",
+            "email": "alice@gmail.com"
+        },
+        {
+            "id": 4,
+            "name": "Bob Brown",
+            "email": "bob@gmail.com"
+        },
+        {
+            "id": 5,
+            "name": "Charlie Davis",
+            "email": "charlie@gmail.com"
+        },
+        {
+            "id": 6,
+            "name": "Diana Evans",
+            "email": "diana@gmail.com"
+        },
+        {
+            "id": 7,
+            "name": "Eve Foster",
+            "email": "eve@gmail.com"
+        },
+        {
+            "id": 8,
+            "name": "Frank Green",
+            "email": "frank@gmail.com"
+        },
+        {
+            "id": 9,
+            "name": "Grace Harris",
+            "email": "grace@gmail.com"
+        },
+        {
+            "id": 10,
+            "name": "Henry Jackson",
+            "email": "henry@gmail.com"
+        }
+    ]
+}
