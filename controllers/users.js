@@ -1,5 +1,6 @@
 import { v4 as uuidv4 } from 'uuid';
 
+// all the routes here are starting withb /users
 let users = [];
 
 export const getUsers = (req, res) => {
